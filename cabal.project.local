@@ -1,0 +1,8 @@
+packages: .
+
+with-compiler: ghc-9.2.5
+
+source-repository-package
+    type: git
+    location: https://github.com/uffizio/heist
+    tag: db376d9cfea7bc50c696ee73d4f1de01e722af84
